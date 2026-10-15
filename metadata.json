@@ -1,0 +1,6 @@
+{
+  "name": "VibeRescue - Ruh Haline & Türe Göre Playlist",
+  "description": "Yoğun stres, tükenmişlik, motivasyon veya sevdiğin müzik türlerinde anında kişiselleştirilmiş çalma listesi ve müzik reçetesi sunan akıllı küratör.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
